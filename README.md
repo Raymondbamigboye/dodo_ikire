@@ -15,4 +15,4 @@ to push: you use this command after all the 3 stages in git workflow : Creating 
 git clone github repo code
 
 
-New branch: after creation you run this command once on it : git push --ser-upstream origin main/master
+New branch: after creation you run this command once on it : git push --set-upstream origin main/master
