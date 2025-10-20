@@ -1,10 +1,11 @@
 # dodo_ikire
+
 create new repository:
 
 mkdir name
 git init is to use to initialize the repo
-git config --global user.name ""
-git config --global user.email ""
+git config --global user.name "Raymondbamigboye"
+git config --global user.email "raymond.bamigboye@gmail.com"
 
 to check the configuration: git config --global --list
 
